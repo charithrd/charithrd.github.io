@@ -1,6 +1,8 @@
+![Data Analytics and Insights ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hello! 👋, 
 #### Data Analytics and Insights 
-![Data Analytics and Insights ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I am a passionate Data & Insight Analyst with a craving for transforming complex datasets into actionable insights. With a strong background in data analysis, visualization, and modeling, I thrive on uncovering hidden patterns and translating data into strategic decisions that drive business success.
 
