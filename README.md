@@ -3,7 +3,8 @@
 ### Hello! 👋, 
 #### Welcome to my Portfolio Repository
 
-## About
+![Welcome Banner ](images/aboutme_logo_white.png)
+
 I am a passionate Data & Insight Analyst with a craving for transforming complex datasets into actionable insights. With a strong background in data analysis, visualization, and modeling, I thrive on uncovering hidden patterns and translating data into strategic decisions that drive business success.
 
 
