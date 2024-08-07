@@ -1,7 +1,6 @@
 ![Welcome Banner ](images/Welcome.jfif)
 
-### Hello! 👋, 
-#### Welcome to my Portfolio Repository
+### Hello! 👋, Welcome to my Portfolio Repository
 
 ## About Me
 
@@ -15,7 +14,7 @@ In addition to providing an in-depth look at my expertise in areas such as machi
 
 I warmly welcome you to explore my site, collaborate on future projects, and share your insights.
 
- - Visit Here: [Website]([https://axjas.github.io/](https://charithrd.github.io/charithrd/))
+ - Visit Here: [Website](https://charithrd.github.io/charithrd/)
 
 
 ## Key Skills: 
