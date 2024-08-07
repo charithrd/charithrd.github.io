@@ -14,7 +14,7 @@ In addition to providing an in-depth look at my expertise in areas such as machi
 
 I warmly welcome you to explore my site, collaborate on future projects, and share your insights.
 
- - [Visit my Digital Portfolio here](https://charithrd.github.io/charithrd/)
+ - [Visit my Digital Portfolio here](https://charithrd.github.io/)
 
 * Credits
   - Digital Portfolio Template is enabled by [HTML5 UP](https://html5up.net/dimension)
