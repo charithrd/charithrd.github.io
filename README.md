@@ -1,4 +1,4 @@
-![Data Analytics and Insights ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Welcome Banner ](images/Welcome.jfif)
 
 ### Hello! 👋, 
 #### Data Analytics and Insights 
