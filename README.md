@@ -6,7 +6,7 @@
 
 I am a passionate Data & Insight Analyst with a craving for transforming complex datasets into actionable insights. With a strong background in data analysis, visualization, and modeling, I thrive on uncovering hidden patterns and translating data into strategic decisions that drive business success.
 
-## Accessing My Personal Website
+## Accessing My Digital Portfolio
 
 This space is dedicated to guiding you to my personal website, where you can find detailed information about my background, key technical skills, and recent endeavors in data science projects. My website serves as a comprehensive portfolio showcasing my educational journey, professional experiences, and the various data science initiatives I have undertaken.
 
@@ -14,20 +14,12 @@ In addition to providing an in-depth look at my expertise in areas such as machi
 
 I warmly welcome you to explore my site, collaborate on future projects, and share your insights.
 
- - [Visit my Website here](https://charithrd.github.io/charithrd/)
+ - [Visit my Digital Portfolio here](https://charithrd.github.io/charithrd/)
 
-
-## Key Skills: 
-* SQL
-* Power query
-* Python
-* Databricks
-* DAX
-* Power BI
-
-## 🌱 Current Studies
-  - I'm pursuing a degree in Data Science. This comprehensive program covers various aspects of data analysis, machine learning, statistics, and computer science.
-  - Throughout my studies, I am gaining hands-on experience with tools and technologies such as Python, SQL, and data visualization softwareS.
+* Credits
+  - Digital Portfolio Template is enabled by [HTML5 UP](https://html5up.net/dimension)
+    
+  - Portfolio assests/ imagery are created using [Microsoft Designer](https://designer.microsoft.com/image-creator)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/charithrd)  
