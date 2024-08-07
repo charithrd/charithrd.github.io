@@ -6,7 +6,7 @@
 
 I am a passionate Data & Insight Analyst with a craving for transforming complex datasets into actionable insights. With a strong background in data analysis, visualization, and modeling, I thrive on uncovering hidden patterns and translating data into strategic decisions that drive business success.
 
-Key Skills: 
+## Key Skills: 
 * SQL
 * Power query
 * Python
@@ -14,7 +14,7 @@ Key Skills:
 * DAX
 * Power BI
 
-- 🌱 Current Studies
+## 🌱 Current Studies
   - I'm pursuing a degree in Data Science. This comprehensive program covers various aspects of data analysis, machine learning, statistics, and computer science.
   - Throughout my studies, I am gaining hands-on experience with tools and technologies such as Python, SQL, and data visualization softwareS.
 
