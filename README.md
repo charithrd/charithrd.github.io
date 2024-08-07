@@ -1,10 +1,12 @@
 ![Welcome Banner ](images/Welcome.jfif)
 
 ### Hello! 👋, 
-#### Data Analytics and Insights 
+#### Welcome to my Portfolio Repository
 
-
+## About
 I am a passionate Data & Insight Analyst with a craving for transforming complex datasets into actionable insights. With a strong background in data analysis, visualization, and modeling, I thrive on uncovering hidden patterns and translating data into strategic decisions that drive business success.
+
+
 
 ## Key Skills: 
 * SQL
