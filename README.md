@@ -14,7 +14,7 @@ In addition to providing an in-depth look at my expertise in areas such as machi
 
 I warmly welcome you to explore my site, collaborate on future projects, and share your insights.
 
- - Visit Here: [Website](https://charithrd.github.io/charithrd/)
+ - [Visit my Website here](https://charithrd.github.io/charithrd/)
 
 
 ## Key Skills: 
