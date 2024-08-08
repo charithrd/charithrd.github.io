@@ -21,7 +21,11 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
     
   - Portfolio assests/ imagery are created using [Microsoft Designer](https://designer.microsoft.com/image-creator)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/charithrd)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/charithrd)
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charithrd&theme=dark)](https://git.io/streak-stats)
 
