@@ -26,7 +26,7 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charithrd&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charithrd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charithrd&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=charithrd&show_icons=true)  
 
