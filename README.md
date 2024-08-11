@@ -16,7 +16,7 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
 
  - [Visit my Digital Portfolio here](https://charithrd.github.io/)
 
-* Credits
+* Special Thanks
   - Digital Portfolio Template is enabled by [HTML5 UP](https://html5up.net/dimension)
     
   - Portfolio assests/ imagery are created using [Microsoft Designer](https://designer.microsoft.com/image-creator)
