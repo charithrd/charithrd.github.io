@@ -27,10 +27,10 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charithrd&label=Profile%20views&color=0e75b6&style=flat" alt="charithrd" " /> </p>
 
 # 💻 Tech Stack:
-<p align="left">
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-</p>
+
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" height="40"/>
