@@ -23,7 +23,6 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/charithrd)
 
-<img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charithrd&label=Profile%20views&color=0e75b6&style=flat" alt="charithrd" " /> </p>
 
