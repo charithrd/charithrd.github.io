@@ -27,10 +27,15 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charithrd&label=Profile%20views&color=0e75b6&style=flat" alt="charithrd" " /> </p>
 
 # 💻 Tech Stack:
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) 
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
+<p align="left">
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+</p>
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" height="40"/>
+</p>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charithrd&theme=dark)](https://git.io/streak-stats)
