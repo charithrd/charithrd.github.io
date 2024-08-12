@@ -26,7 +26,7 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charithrd&label=Profile%20views&color=0e75b6&style=flat" alt="charithrd" " /> </p>
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,13 +37,14 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
 <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" height="40"/>
 </p>
 
+### GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charithrd&theme=dark)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charithrd&theme=dark)]
 
-#### Public Repository Stats
+### Public Repository Stats
 
-![3D Stats](https://raw.githubusercontent.com/charithrd/charithrd/main/profile-3d-contrib/profile-season-animate.svg)
+![3D Stats](https://raw.githubusercontent.com/charithrd/main/profile-3d-contrib/profile-season-animate.svg)
 
 <!-- ![Stats (Public Repos)](/metrics.base.svg)  -->
