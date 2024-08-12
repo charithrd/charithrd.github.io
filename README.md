@@ -41,3 +41,7 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charithrd&theme=dark)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charithrd&theme=dark)]
+
+#### Public Repository Stats
+
+![3D Stats](https://raw.githubusercontent.com/charithrd/charithrd/main/profile-3d-contrib/profile-season-animate.svg)
