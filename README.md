@@ -38,6 +38,6 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
 </p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charithrd&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charithrd&theme=dark)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charithrd&theme=dark)]
