@@ -45,3 +45,5 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
 #### Public Repository Stats
 
 ![3D Stats](https://raw.githubusercontent.com/charithrd/charithrd/main/profile-3d-contrib/profile-season-animate.svg)
+
+<!-- ![Stats (Public Repos)](/metrics.base.svg)  -->
