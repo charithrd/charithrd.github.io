@@ -21,10 +21,6 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
     
   - Portfolio assests/ imagery are created using [Microsoft Designer](https://designer.microsoft.com/image-creator)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/charithrd)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charithrd&label=Profile%20views&color=0e75b6&style=flat" alt="charithrd" " /> </p>
 
 ### 💻 Tech Stack:
 
@@ -37,14 +33,12 @@ I warmly welcome you to explore my site, collaborate on future projects, and sha
 <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" height="40"/>
 </p>
 
-### GitHub Stats
+### GitHub Stats 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/charithrd)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charithrd&label=Profile%20views&color=0e75b6&style=flat" alt="charithrd" " /> </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charithrd&theme=dark)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charithrd&theme=dark)]
-
-### Public Repository Stats
-
-![3D Stats](https://raw.githubusercontent.com/charithrd/main/profile-3d-contrib/profile-season-animate.svg)
-
-<!-- ![Stats (Public Repos)](/metrics.base.svg)  -->
